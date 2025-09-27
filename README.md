@@ -1,7 +1,32 @@
-# Vue 3 + TypeScript + Vite + Pico Css
+# TodoList — Vue + Vite + TypeScript
 
-Simple Todo List 
+A simple project built to practice Vue 3 with Vite and learn TypeScript.  
+The app is a basic TODO list where you can add, mark as done, delete, and filter tasks.
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## Technologies
+- Vue 3 (Composition API)
+- TypeScript
+- Vite
+- Pure CSS (or Tailwind if you’re using it)
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+## Features
+- Add new tasks
+- Mark tasks as completed
+- Delete tasks
+- Filter tasks by: All / Done / Todo
+- TypeScript for type safety
+
+## Run locally
+```bash
+# clone the repo
+git clone <YOUR-GITHUB-URL>
+cd <REPO-FOLDER>
+
+# install dependencies
+npm install
+
+# run dev server
+npm run dev
+
+# build for production
+npm run build
