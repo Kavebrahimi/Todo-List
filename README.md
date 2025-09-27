@@ -19,7 +19,7 @@ The app is a basic TODO list where you can add, mark as done, delete, and filter
 ## Run locally
 ```bash
 # clone the repo
-git clone <YOUR-GITHUB-URL>
+git clone [<YOUR-GITHUB-URL>](https://github.com/Kavebrahimi/Todo-List.git)
 cd <REPO-FOLDER>
 
 # install dependencies
